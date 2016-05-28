@@ -1,3 +1,7 @@
-/vendor
-/composer.lock
-/tests
+log/*
+temp/*
+vendor/*
+!.gitigonre
+!.htaccess
+!web.config
+app/config/config.local.neon
